@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+
+    
+<!-- Stephanie Imperial -->
+<h1>Stephanie's Holiday Delivery Services</h1>
+<div>
+Welcome to Stephanie's Holiday Delivery Services where we make delivering your presents to loved ones a fast and convenient experience. 
+<p>We service several locations and provide you with our easy to fill out form.
+ Just enter the address of the recipient and review our pricing options.</p>
+
+<ul>
+    <li>California</li>
+    <li>New York</li>
+    <li>Washington</li>
+    <li>Florida</li>
+    <li>Hawaii</li>
+</ul>
+<p>Select your location</p>
+<select name="location">
+    <option>California</option>
+    <option>New York</option>
+    <option>Florida</option>
+    <option>Washington</option>
+    <option>Hawaii</option>
+</select>
+<br>
+<br>
+<fieldset>
+	<legend>Recipient Information</legend>
+	<label>Name:<br />
+	<input type="text" name="name" /></label><br />
+	<label>Address:<br />
+	<input type="text" name="address" /></label><br />
+	<label>City:<br />
+	<input type="text" name="city" /></label><br />
+	<label>Phone:<br />
+	<input type="text" name="phone" /></label><br />
+</fieldset>
+
+ <h2>Prices</h2>
+  <table border="10" width="30%">
+   <thead>
+    <tr align="center">
+     <th>Weight of Item</th>
+     <th>Price You Pay</th>
+     </tr>
+    <tr align="center">
+     
+    </tr>
+   </thead>
+   <tbody>
+    <tr align="center">
+     <td>1-5 lbs</td>
+     <td>$15.00</td>
+    </tr>
+    <tr align="center">
+      <td>5-10 lbs</td>
+      <td>$25.00</td>
+    </tr>
+		<tr align="center">
+      <td>10-25 lbs</td>
+      <td>$50.00</td>
+    </tr>
+		<tr align="center">
+      <td>50+ lbs</td>
+      <td>$75.00-$125.00</td>
+    </tr>
+   </tbody>
+  </table>
+  <br>
+    <h2>Holiday shopping made easy by our service providers below!</h2>
+  <a href="http://www.amazon.com" target="_blank">Amazon</a> | <a href="http://www.ebay.com" target="_blank">Ebay</a> | <a href="http://www.google.com" target="_blank">Google</a>
+
+<p> Please note:  We don&#39;t deliver live animals or people to exotic destinations. </p>
+<p> We do partner with Virgin America and can refer you to a friendly customer service agent <a href="https://www.virginamerica.com" > Click here! </a> </p>
+
+
+   
+</div>
+
+</body></html>
